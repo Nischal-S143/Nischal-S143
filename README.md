@@ -9,16 +9,9 @@ I enjoy building fast, scalable, and user-friendly applications.<br/>
 From frontend animations to backend logic, I love the entire development process.<br/>
 Always learning, always building.
 </p>
-
----
-
-<h2 align="center">🚀 My GitHub Activity Game</h2>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Nischal-S143/space-shooter/main/assets/space-shooter.gif" />
 </p>
-
----
 
 ## 💫 About Me
 
